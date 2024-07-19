@@ -5,10 +5,10 @@ homepage: https://github.com/tomassasovsky/secure_dotenv.dart.git
 repository: https://github.com/tomassasovsky/secure_dotenv.dart.git
 
 environment:
-  sdk: ">=2.17.3 <4.0.0"
+  sdk: ">=3.1.3 <4.0.0"
 
 dependencies:
-  analyzer: ^5.13.0
+  analyzer: ^6.41.0
   build: ^2.4.0
   collection: ^1.17.2
   dotenv: ^4.1.0
